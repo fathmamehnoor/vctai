@@ -91,7 +91,7 @@ def gradio_interface():
         fn=chatbot,
         inputs=gr.Textbox(lines=4, label="Enter Your Custom VALORANT Esports Prompt"),
         outputs="text",
-        title="VALORANT Esports Expert",
+        title="VCTAI",
         description="Ask any question about VALORANT esports, players, team compositions, strategies, and roles.",
         theme="default"
     )
