@@ -31,7 +31,7 @@ To run this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [link text][https://github.com/fathmamehnoor/vctai]
+   git clone [Github Repository](https://github.com/fathmamehnoor/vctai)
    cd vctai
     ```
 2. **Install Dependencies**:
@@ -42,7 +42,7 @@ To run this project, follow these steps:
     ```
 3. **Download Esports Data from Google Drive**:
 
-    [link text][https://drive.google.com/file/d/1Vxvnej6lL-8md8DLUFRX_d_VJTAI4m2v/view?usp=drive_link]
+    [Download VALORANT Esports Data](https://drive.google.com/file/d/1Vxvnej6lL-8md8DLUFRX_d_VJTAI4m2v/view?usp=drive_link)
 
 4. **Run the Chatbot**:
 
