@@ -1,0 +1,4 @@
+env/
+data/
+.gradio/
+esports_data.csv
