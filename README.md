@@ -31,8 +31,8 @@ To run this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [link text][https://github.com/fathmamehnoor/vctai]
+   cd vctai
     ```
 2. **Install Dependencies**:
     ```bash
